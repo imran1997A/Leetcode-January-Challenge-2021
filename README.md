@@ -1,4 +1,4 @@
-# Leetcode-May-Leetcoding-Challenge-May-2020
-Repository contains my solutions to May Leetcoding Challenge on Leetcode.
+# Leetcode-January-Challenge-2021
+Repository contains my solutions to January Leetcoding Challenge on Leetcode.
 
 Code available  in : C++
